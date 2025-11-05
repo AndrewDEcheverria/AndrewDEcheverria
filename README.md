@@ -6,11 +6,11 @@ Querying data using SQL
 Develop dashboards with tableau
 Data analysis using Google Sheets and Excel
 
-## Projects
+### Projects
 
-## Tools
+### Tools
 
-## Links
+### Links
 
 
 

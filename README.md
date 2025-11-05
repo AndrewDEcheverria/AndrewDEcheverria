@@ -1,6 +1,6 @@
 ## 👋 Greetings 
 
-Hello, I'm Andrew. A self taught data analyst with skills such as analysing data, data cleaning and visual models
+Hello, I'm Andrew. A self taught data analyst with skills such as analysing data, data cleaning and creating dashboards
 
 - Querying data using SQL
 - Develop dashboards with tableau

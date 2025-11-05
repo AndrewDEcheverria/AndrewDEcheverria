@@ -1,16 +1,19 @@
-## Greetings 👋
+## 👋 Greetings 
 
 Hello, I'm Andrew. A self taught data analyst with skills such as analysing data, data cleaning and visual models
 
-Querying data using SQL
-Develop dashboards with tableau
-Data analysis using Google Sheets and Excel
+- Querying data using SQL
+- Develop dashboards with tableau
+- Data analysis using Google Sheets and Excel
 
-### Projects
+### :books:Projects
+Have a look below for my completed projects 
 
-### Tools
-
-### Links
+### 🛠️Tools
+- Language: SQL
+- Database: MySql, Excel, Google Sheets
+- Visualization: Tableau
+### 🔗Links
 
 
 

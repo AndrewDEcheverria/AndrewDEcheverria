@@ -2,6 +2,7 @@
 
 Hello, I'm Andrew. A self taught data analyst with skills such as analysing data, data cleaning and creating dashboards
 
+### 📖Skills
 - Querying data using SQL
 - Develop dashboards with tableau
 - Data analysis using Google Sheets and Excel

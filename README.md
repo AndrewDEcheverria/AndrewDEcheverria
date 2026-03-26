@@ -11,7 +11,7 @@ Hello, I'm Andrew. A self taught data analyst with skills such as analysing data
 Have a look below for my completed projects 
 
 ### 🛠️Tools
-- Language: SQL
+- Language: SQL, R
 - Database: MySql, Excel, Google Sheets
 - Visualization: Tableau
 ### 🔗Links

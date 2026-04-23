@@ -15,6 +15,7 @@ Have a look below for my completed projects
 - Database: MySql, Excel, Google Sheets
 - Visualization: Tableau
 ### 🔗Links
+https://www.linkedin.com/in/andrew-e-983073278/
 
 
 

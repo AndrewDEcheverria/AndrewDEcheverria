@@ -8,7 +8,9 @@ Hello, I'm Andrew. A self taught data analyst with skills such as analysing data
 - Data analysis using Google Sheets and Excel
 
 ### :books:Projects
-Have a look below for my completed projects 
+Have a look below for my completed projects
+- World Layoffs
+- Video game sales
 
 ### 🛠️Tools
 - Language: SQL, R

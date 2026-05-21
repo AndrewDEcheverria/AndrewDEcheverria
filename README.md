@@ -13,8 +13,8 @@ Have a look below for my completed projects
 - Video game sales
 
 ### 🛠️Tools
-- Language: SQL, R
-- Database: MySql, Excel, Google Sheets
+- Language: SQL, R, Python
+- Database: MySql, Excel, Google Sheets, Pandas
 - Visualization: Tableau
 ### 🔗Links
 https://www.linkedin.com/in/andrew-e-983073278/

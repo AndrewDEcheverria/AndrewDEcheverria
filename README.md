@@ -14,7 +14,7 @@ Have a look below for my completed projects
 
 ### 🛠️Tools
 - Language: SQL, R, Python
-- Database: MySql, Excel, Google Sheets, Pandas
+- Database: MySql, BigQuery, Excel, Google Sheets, Pandas
 - Visualization: Tableau
 ### 🔗Links
 https://www.linkedin.com/in/andrew-e-983073278/

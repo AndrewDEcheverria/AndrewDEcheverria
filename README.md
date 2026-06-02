@@ -11,6 +11,7 @@ Hello, I'm Andrew. A self taught data analyst with skills such as analysing data
 Have a look below for my completed projects
 - World Layoffs
 - Video game sales
+- Medical Insurance Cost
 
 ### 🛠️Tools
 - Language: SQL, R, Python

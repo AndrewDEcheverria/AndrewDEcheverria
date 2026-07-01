@@ -12,6 +12,7 @@ Have a look below for my completed projects
 - World Layoffs
 - Video game sales
 - Medical Insurance Cost
+- Data Science Salary Dashboard
 
 ### 🛠️Tools
 - Language: SQL, R, Python
